@@ -1,3 +1,4 @@
 graphqlTemplate.sh
 .vscode/
 node_modules/
+.env
